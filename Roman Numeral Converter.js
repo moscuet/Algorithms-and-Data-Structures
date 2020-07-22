@@ -1,4 +1,4 @@
-console.log(' Palindrome JS connected')
+console.log('  Roman Numeral Converter.JS connected')
 function convertToRoman(num) {
     const romanObj = {
         M: 1000,
